@@ -1,0 +1,29 @@
+.App{
+  padding-top:10px;
+  width:50%;
+  height:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+header h2{
+  font-size:2.5em;
+  text-decoration: underline;
+  text-underline-position: initial;
+}
+
+.add-book{
+  margin-top:10px;
+}
+
+.group-container{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+}
+
+
+.book-list{
+  margin-top:10px;
+}
